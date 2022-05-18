@@ -1,0 +1,24 @@
+{
+  "name": "hello-world-pages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "node index.js",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HugoDasiilva/hello-world-pages.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HugoDasiilva/hello-world-pages/issues"
+  },
+  "homepage": "https://github.com/HugoDasiilva/hello-world-pages#readme",
+  "dependencies": {
+    "jest": "^28.1.0"
+  }
+}
